@@ -199,6 +199,7 @@
 - [Bitcraze Crazyflie 2.1+](https://www.bitcraze.io/products/crazyflie-2-1/) - Nano quadrotor with AI-deck and Lighthouse positioning. Standard for indoor RL research.
 - [Bitcraze Crazyflie Brushless](https://www.bitcraze.io/) - 41g brushless variant with 7-10 min flight time.
 - [Holybro X500 V2](https://holybro.com/products/x500-v2-kit) - PX4 development platform.
+- [Langostino](https://github.com/swarm-subnet/Langostino) - Complete open-source autonomous drone platform with hardware BOM, ROS2 stack, and RL-based autopilot using gym-pybullet-drones. Raspberry Pi companion computer with LiDAR and GPS.
 - [ModalAI Starling](https://www.modalai.com/products/starling) - Ready-to-fly autonomous drone with VOXL compute.
 
 ## Community
